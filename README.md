@@ -1,5 +1,5 @@
 # M4A2-Sherman-Tank
-A full SolidWorks CAD model of a M4A2 Sherman Tank created in Solidworks for a first year Engineering design course.  Files included are only the sections that are my own work. I would like to acknowledge the work that my other team members did that is also showcased in our video walk through.
+A full CAD model of a M4A2 Sherman Tank created in Solidworks for a first year Engineering design course.  Files included are only the sections that are my own work. I would like to acknowledge the work that my other team members did that is also showcased in our video walk through.
 
 ![Youtube Thumbnail](https://img.youtube.com/vi/hzWr1FSXId0/0.jpg "M4A2-Sherman-Tank")
 
